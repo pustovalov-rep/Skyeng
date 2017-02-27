@@ -1,0 +1,8 @@
+{
+    "labels": {
+        "New spam": "New spam"
+    },
+    "fields": {
+        "email": "Email"
+    }
+}

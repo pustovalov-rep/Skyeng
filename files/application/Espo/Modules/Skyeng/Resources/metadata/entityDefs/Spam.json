@@ -1,0 +1,8 @@
+{
+    "fields": {
+        "email": {
+            "type": "varchar",
+            "required": true
+        }
+    }
+}

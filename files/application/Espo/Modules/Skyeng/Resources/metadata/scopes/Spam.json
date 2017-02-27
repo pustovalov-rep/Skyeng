@@ -1,0 +1,10 @@
+{
+    "entity": false,
+    "layouts": true,
+    "tab": true,
+    "acl": true,
+    "module": "Skyeng",
+    "customizable": true,
+    "stream": true,
+    "importable": true
+}

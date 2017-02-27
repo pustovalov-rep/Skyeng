@@ -1,0 +1,6 @@
+{
+    "controller": "skyeng:controllers/spam",
+    "views": {
+        "spam": "skyeng:views/spam"
+    }
+}
